@@ -8,9 +8,9 @@ I care about taking AI beyond the prototype: **measurable quality, reliable beha
 
 | Project                                  | What it does                                                                                         | Status         |
 | ---------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------- |
-| [grounded-qa](https://github.com/…)      | Grounded RAG over DPDP, GDPR & CCPA with citations, retrieval evaluation, and ablation studies       | 🚧 In progress |
-| [compliance-agent](https://github.com/…) | Tool-using agent for auditing cookie/tracker compliance with prompt-injection defenses               | 🚧 In progress |
-| [eval-harness](https://github.com/…)     | Evaluation and regression gates for LLM applications, catching quality regressions before deployment | 🚧 In progress |
+| [grounded-qa](https://github.com/AkashAgarwalInd/grounded-qa)      | Grounded RAG over DPDP, GDPR & CCPA with citations, retrieval evaluation, and ablation studies       | 🚧 In progress |
+| [compliance-agent](https://github.com/AkashAgarwalInd/compliance-agent) | Tool-using agent for auditing cookie/tracker compliance with prompt-injection defenses               | 🚧 In progress |
+| [eval-harness](https://github.com/AkashAgarwalInd/eval-harness)     | Evaluation and regression gates for LLM applications, catching quality regressions before deployment | 🚧 In progress |
 
 Each project documents the **architecture, evaluation methodology, failure modes, trade-offs, and what didn't work**.
 
