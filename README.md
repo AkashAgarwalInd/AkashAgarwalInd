@@ -11,6 +11,8 @@ My recent work focuses on **Agentic AI, LLM orchestration, MCP, RAG, multimodal/
 I bring a systems-engineering mindset to AI:
 > **latency · reliability · scalability · evaluation · observability · cost · security**
 
+[Production AI Work](#-production-ai-work) • [Engineering Impact](#-engineering-impact) • [Tech Stack](#-technical-stack) • [Work History](#-selected-work-history)
+
 ---
 
 ## 🧠 What I Work On
@@ -25,13 +27,12 @@ I bring a systems-engineering mindset to AI:
 - **📊 AI Evaluation** — RAG evaluation, agent evaluation, LLM-as-a-judge
 - **🛡️ AI Safety & Guardrails** — grounding, prompt-injection defense, controlled tool execution
 
-
 ---
 
 ## 🚀 Production AI Work
 
 ### 🤖 Agentic Domain Analyzer
-`LangGraph` · `Agentic AI` · `Tool Calling` · ` Structured Outputs` · `Context Engineering`
+`LangGraph` · `Agentic AI` · `Tool Calling` · `Structured Outputs` · `Context Engineering`
 
 Built an agentic workflow for automated consent-domain analysis and intelligence workflows.
 
