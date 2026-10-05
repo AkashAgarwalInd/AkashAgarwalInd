@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Akash Agarwal 👋
 ### Senior Software Engineer | Applied AI, LLMs, RAG & Agents | Agentic AI | Production-Scale Systems (1M+ req/hr) | IIMB
 
@@ -313,7 +312,5 @@ Focusing deeply on agentic runtime design, MCP integrations, multi-agent systems
 I'm interested in building production-grade AI systems where software engineering meets LLMs, agents, retrieval, and scalable infrastructure.
 
 [LinkedIn](https://www.linkedin.com/in/akash-agarwal-a9479b90) · [GitHub](https://github.com/AkashAgarwalInd) · [Email](https://www.google.com/search?q=mailto%3Aakash.66.agarwal%40gmail.com)
-
-```
 
 ```
